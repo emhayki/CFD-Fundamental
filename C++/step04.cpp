@@ -1,5 +1,4 @@
 #include "matplotlibcpp.h"
-#include <cmath>
 #include <vector>
 #include <algorithm>
 #include <iostream>
