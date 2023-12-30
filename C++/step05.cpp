@@ -44,7 +44,6 @@ int main() {
             u[i][j] = ((x[i] >= 0.5 && x[i] <= 1) && (y[j] >= 0.5 && y[j] <= 1)) ? 2.0 : 1.0;        
     }
 
-   plt::ion();
  
     // Time-stepping loop
     for (int n = 0; n < T; n++) {
