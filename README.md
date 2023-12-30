@@ -24,7 +24,4 @@ This repository presents an implementation of Prof. Lorena A. Barba's ["12 Steps
  ## C++ and `matplotlibcpp.h`
 The C++ codes use [`matplotlibcpp.h`](https://github.com/lava/matplotlib-cpp), a C++ library that provides Matplotlib-like plotting functionality. To use it, include `matplotlibcpp.h` in your C++ project and ensure Python with Matplotlib is installed.
 
-  ## Acknowledgments
-
-- Prof. Lorena A. Barba and the [CFDPython](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/) project.
-- [`matplotlibcpp`](https://github.com/lava/matplotlib-cpp) for C++ plotting capabilities.
+  
