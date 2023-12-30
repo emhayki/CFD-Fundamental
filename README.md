@@ -15,7 +15,7 @@ This repository presents an implementation of Prof. Lorena A. Barba's ["12 Steps
   7) Diffusion
   8) Burgers' Equation
   9) Laplace Equation
-  10) Poisson Equation in 2D
+  10) Poisson Equation
    
   - **Steps 11 to 12 - Navier-Stokes Equation in 2D**
   11) Cavity Flow
