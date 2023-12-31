@@ -14,7 +14,7 @@ int main() {
     // Define simulation parameters
     const int X = 31;                        // Number of points along X-axis
     const int Y = 31;                        // Number of points along Y-axis
-    const int T = 40;                         // Total number of time steps
+    const int T = 40;                        // Total number of time steps
 
     const double nu = .05;           
     const double dx = 2. / (X - 1);           // Step size in the X direction
