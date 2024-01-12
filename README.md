@@ -22,6 +22,4 @@ This repository presents an implementation of Prof. Lorena A. Barba's ["12 Steps
   12) Channel Flow
 
  ## C++ and `matplotlibcpp.h`
-The C++ codes use [`matplotlibcpp.h`](https://github.com/lava/matplotlib-cpp), a C++ library that provides Matplotlib-like plotting functionality. To use it, include `matplotlibcpp.h` in your C++ project and ensure Python with Matplotlib is installed.
-
-  
+The C++ code incorporates [`matplotlibcpp.h`](https://github.com/lava/matplotlib-cpp), a library offering Matplotlib-like plotting functionality. Simply include this header in your project and ensure Python with Matplotlib is installed.
