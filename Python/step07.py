@@ -33,7 +33,7 @@ ax = fig.add_subplot(111, projection='3d')
 surface = ax.plot_surface(nX, nY, u, cmap='viridis')
 ax.set_xlabel('$x$')
 ax.set_ylabel('$y$')
-ax.set_title('2D Convection')
+ax.set_title('2D Diffusion')
 
 def animate(n):
     global u, surface
