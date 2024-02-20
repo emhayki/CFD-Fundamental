@@ -24,6 +24,3 @@ This repository presents an implementation of Prof. Lorena A. Barba's ["12 Steps
  ## C++ and `matplotlibcpp.h`
 The C++ code incorporates [`matplotlibcpp.h`](https://github.com/lava/matplotlib-cpp), a library offering Matplotlib-like plotting functionality. Simply include this header in your project and ensure Python with Matplotlib is installed.
 
-
-## Simulation Videos
-- **Cavity Flow Simulation**: [Watch on YouTube](https://youtu.be/8Dp_RfN0WXo)
